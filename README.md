@@ -166,21 +166,19 @@ lib/
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 📝 Create New Posting Screen
 <table>
   <tr>
-    <td><img src="screenshots/F1.png" width="250"/></td>
-    <td><img src="screenshots/F2.png" width="250"/></td>
+    <td><img src="screenshots/F1.jpeg" width="250"/></td>
+    <td><img src="screenshots/F2.jpeg" width="250"/></td>
   </tr>
 </table>
 
 ### 📰 Flyer Details Screen
 <table>
   <tr>
-    <td><img src="screenshots/F3.png" width="250"/></td>
-    <td><img src="screenshots/F4.png" width="250"/></td>
+    <td><img src="screenshots/F3.jpeg" width="250"/></td>
+    <td><img src="screenshots/F4.jpeg" width="250"/></td>
   </tr>
 </table>
 
